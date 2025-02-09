@@ -1,7 +1,7 @@
 # TICT-Complex-Systems
 
 ## Project
-This is assignment 'Ontwikkelomgeving met Docker' en Git for ComplexSystems. 
+This is assignment 'Ontwikkelomgeving met Docker en Git' for ComplexSystems. 
 We create a docker container with the C++ build tools and use the tools to build a simple Hello World command line application.
 
 We use CMake with CMakeLists.txt to create a Makefile, and use that to build the application. 
