@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/TICT-Complex-Systems/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/hello_world.dir/main.cpp.o -c /workspaces/TICT-Complex-Systems/main.cpp",
+  "file": "/workspaces/TICT-Complex-Systems/main.cpp"
+}
+]
